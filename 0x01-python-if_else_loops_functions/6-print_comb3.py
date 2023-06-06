@@ -4,4 +4,4 @@ for a1 in range(0, 10):
         if a1 == 8 and a2 == 9:
             print('{}{}'.format(a1, a2))
         else:
-            print('{}{}'.format(a1,a2), end=', ')
+            print('{}{}'.format(a1, a2), end=', ')
