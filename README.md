@@ -1,9 +1,4 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>ALX Higher Level Programming</title>
-</head>
-<body>
   <h1>ALX Higher Level Programming</h1>
   <p>This repository contains my solutions and projects for the ALX Higher Level Programming course. The course focuses on various programming concepts and languages, including Python, JavaScript, and more.</p>
 
