@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def new_in_list(my, idx, element):
+def new_in_list(my_list, idx, element):
     leng = len(my_list)
 
     new = my_list[:]
