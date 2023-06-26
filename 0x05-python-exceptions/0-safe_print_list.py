@@ -6,7 +6,7 @@ def safe_print_list(my_list=[], x=0):
             print(my_list[i], end ="")
             cmp += 1
     except IndexError:
-        print("IndexError: List index out of range")
+        pass
     finally:
         print()
         return cmp
