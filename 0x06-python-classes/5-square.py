@@ -14,10 +14,10 @@ class Square:
 
     @property
     def size(self):
-        """int: private size
+        """int: private size.
 
         Returns:
-            Private size
+            Private size.
         """
         return self.__size
 
@@ -26,7 +26,7 @@ class Square:
         """Sets value into size, must be int.
 
         Args:
-            value (int): size of square
+            value (int): size of the square.
         """
         if type(value) is not int:
             raise TypeError('size must be an integer')
@@ -36,9 +36,20 @@ class Square:
             self.__size = value  #: size of the square
 
     def area(self):
-        """ the area
+        """ returns the area
 
         Returns:
             area
         """
         return self.__size**2
+
+    def my_print(self):
+        """ prints in stdout the square with the character #"""
+
+        if self.__size != 0:
+            for i in range(self.__size):
+                for j in range(self.__size):
+                    print('#', end='')
+                print()
+        else:
+            print()
