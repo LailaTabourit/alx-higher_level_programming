@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Define classe for linked list"""
+"""Define classes for linked list"""
 
 
 class Node:
