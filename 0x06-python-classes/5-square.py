@@ -17,7 +17,7 @@ class Square:
         """int: private size
 
         Returns:
-            size
+            Private size
         """
         return self.__size
 
