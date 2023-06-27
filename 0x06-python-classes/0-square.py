@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Empty class square"""
 
-class Square: 
-    """empty class"""
+class Square:
+    """Empty class"""
     pass
