@@ -4,7 +4,7 @@
 
 class Square:
     """class Square defines by size"""
-    def ___init__(self, size=None):
+    def ___init__(self, size):
         """initialize square
         Args:
             size (int): size of square
