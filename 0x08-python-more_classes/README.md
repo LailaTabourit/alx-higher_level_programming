@@ -1,9 +1,8 @@
-0x08-python-more_classes and Objects
+<h1>0x08-python-more_classes and Objects</h1>
 
-0x08-python-more_classes and Objects
 This repository contains solutions to the problems related to the topic "More Classes and Objects" in Python. Each problem is solved using the concepts of classes and objects, allowing for a deeper understanding of object-oriented programming in Python.
 
-Problem Descriptions
+# Problem Descriptions
 The repository includes the following problem descriptions:
 
 Rectangle: A class that represents a rectangle and includes methods to calculate the area and perimeter, and to print the rectangle with the '#' character.
@@ -22,29 +21,26 @@ Change representation: A class that represents a rectangle and includes a class 
 
 Compare rectangles: A class that represents a rectangle and includes methods to compare rectangles based on their areas and perimeters.
 
-Getting Started
+# Getting Started
 To get started, follow the instructions below:
 
 Clone this repository using the following command:
 
-<code>
-git clone https://github.com/your-username/0x08-python-more_classes.git</code>
-Navigate to the cloned directory:
+<code>git clone https://github.com/your-username/0x08-python-more_classes.git</code>
+<h2>Navigate to the cloned directory:</h2>
 
-<code>
-cd 0x08-python-more_classes</code>
+<code>cd 0x08-python-more_classes</code>
 You will find separate Python files for each problem mentioned in the problem descriptions section. You can run each file individually to test the solutions.
 
 Run the Python files using the following command:
 
-<code>
-python3 file_name.py</code>
+<code>python3 file_name.py</code>
 Replace file_name.py with the name of the Python file you want to run.
 
-Requirements
+<h3>Requirements</h3>
 The code in this repository is written in Python 3. Therefore, you need to have Python 3 installed on your machine to execute the code.
 
-Contributing
+<h2>Contributing</h2>
 Contributions to this repository are welcome. If you find any issues or want to suggest improvements, please open an issue or submit a pull request.
 
 License
