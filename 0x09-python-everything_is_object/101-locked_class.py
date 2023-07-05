@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""
-LockedClass
-by: laila
+""" LockedClass
+by laila
 """
 
 
