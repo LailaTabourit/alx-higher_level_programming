@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""functn kind of class
+"""Module check class ans subclass
 """
 
 
